@@ -16,11 +16,11 @@ function sayHiToGrandma(string) {
   var uppercase = "HELLO"
 
   uppercase.toUpperCase() === uppercase
-console.log("YES INDEED!")
+console.log("I can\'t hear you!")
   var lowercase = 'hello'
 
   lowercase.toLowerCase() === lowercase
-
+console.log("YES INDEED!")
   var mixedCase = 'I can\'t hear you!'
 
   mixedCase.toLowerCase() === mixedCase

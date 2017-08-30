@@ -16,12 +16,12 @@ var uppercase = "HELLO"
 
 lowercase.toLowerCase() === lowercase)
 console.log("I can't hear you!")
-
+;
 var lowercase = 'hello'
 
 uppercase.toUpperCase() === uppercase)
 console.log("YES. INDEED!")
-
+;
 var mixedCase = 'I love you, Grandma'
 mixedCase.toLowerCase() === mixedCase
 mixedCase.toUpperCase() === mixedCase

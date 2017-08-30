@@ -11,6 +11,7 @@ function logWhisper(HELLO) {
   console.log('hello')
 }
 
+function sayHiToGrandma(string) {
 var lowercase = 'hello'
-retern ("YES INDEED!")
-
+console.log("YES INDEED!")
+}

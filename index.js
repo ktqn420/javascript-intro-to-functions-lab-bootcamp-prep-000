@@ -23,4 +23,3 @@ console.log('I can\'t hear you!' )
   uppercase.toUpperCase() === uppercase
 console.log('YES INDEED!' )
 }
-

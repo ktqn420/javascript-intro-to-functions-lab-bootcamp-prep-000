@@ -15,13 +15,13 @@ var uppercase = "HELLO"
 var lowercase = 'hello'
 var mixedCase = 'I love you, Grandma'
 
-var lowercase.toLowerCase() === lowercase)
+lowercase.toLowerCase() === lowercase)
 console.log("I can't hear you!")
-} 
-var uppercase.toUpperCase() === uppercase)
+}
+uppercase.toUpperCase() === uppercase)
 console.log("YES. INDEED!")
-} 
-var mixedCase.toLowerCase() === mixedCase
-var mixedCase.toUpperCase() === mixedCase
+}
+mixedCase.toLowerCase() === mixedCase
+mixedCase.toUpperCase() === mixedCase
 console.log("I love you, too.")
 }

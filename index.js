@@ -21,7 +21,7 @@ console.log("I can't hear you!")
 
   lowercase.toLowerCase() === lowercase
 console.log("YES INDEED!")
-  var mixedCase = 'I can\'t hear you!'
+  var mixedCase = 'I love you, Grandma.'
 
   mixedCase.toLowerCase() === mixedCase
 

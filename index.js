@@ -15,7 +15,9 @@ var uppercase = "HELLO"
 var lowercase = 'hello'
 
 if (var lowercase.toLowerCase() === lowercase)
-console.log("I love you, too.")
+console.log("I can't hear you!")
+} else if (uppercase.toUpperCase() === uppercase)
+console.log("YES. INDEED!")
 } else {
   console.log("I love you, too.")
 }

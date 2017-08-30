@@ -22,6 +22,6 @@ if(lowercase.toLowerCase() === lowercase)
 } else if (uppercase.toUpperCase() === uppercase){
 console.log("YES. INDEED!")
 
-} else {
+} else (mixedCase === 'I love you, Grandma')
 console.log("I love you, too.")
 }

@@ -11,7 +11,7 @@ function logWhisper(HELLO) {
   console.log('hello')
 }
 
-
+var lowercase = 'hello!'
 function sayHiToGrandma(string) {
   lowercase.toLowerCase() === lowercase
   console.log("YES INDEED!")

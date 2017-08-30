@@ -4,10 +4,10 @@ function shout(string) {
 function whisper(string) {
   return string.toLowerCase()
 }
-function logShout(hello) {
+function logShout('hello') {
   console.log('HELLO')
 }
-function logWhisper(HELLO) {
+function logWhisper('HELLO') {
   console.log('hello')
 }
 
@@ -23,5 +23,5 @@ if (lowercase.toLowerCase() === lowercase) {
 }
 
 function sayHiToGrandma('I love you, Grandma.' ) {
-  console.log("I love you, too.")
+  console.log('I love you, too.')
 }

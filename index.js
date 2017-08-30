@@ -16,5 +16,5 @@ console.log('I can\'t hear you!' )
 console.log('YES INDEED!' )
 }
 function logShout(hello) {
-  console.log('Hello')
+  console.log('HELLO')
 }

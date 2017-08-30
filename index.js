@@ -21,6 +21,6 @@ else (string === "I love you Grandma" {
   console.log("I love you, too")}
 }
 
-var uppercase = "HELLO!"
+var string = "HELLO!"
 
-uppercase.toUpperCase() === uppercase
+string.toUpperCase() === string

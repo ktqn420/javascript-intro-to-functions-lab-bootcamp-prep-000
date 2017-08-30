@@ -18,6 +18,6 @@ console.log('YES INDEED!' )
 function logShout(hello) {
   console.log('HELLO')
 }
-function logWhisper(hello) {
-  console.log('HELLO')
+function logWhisper(HELLO) {
+  console.log('hello')
 }

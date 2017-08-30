@@ -25,5 +25,5 @@ console.log("YES. INDEED!")
 }
 
 function sayHiToGrandma("I love you, Grandma."){
-console.log("I love you, too.")
+console.log(' I love you, too.')
 }

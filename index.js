@@ -17,6 +17,7 @@ if (string.toLowerCase() === 'string')
       console.log("I can't hear you!" )
 }
 
+  var string = 'HELLO'
 if (string.toUpperCase() === 'string')
       console.log("YES INDEED!" )
 }

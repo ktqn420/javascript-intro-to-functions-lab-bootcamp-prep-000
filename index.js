@@ -12,5 +12,5 @@ function logWhisper(HELLO) {
 }
 
 var lowercase = 'hello'
-  console.log("YES INDEED!")
-}
+retern ("YES INDEED!")
+

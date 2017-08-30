@@ -24,6 +24,6 @@ if (uppercase.toUpperCase() === uppercase) {
 console.log("YES. INDEED!")
 }
 
-function sayHiToGrandma('I love you, Grandma'){
+function sayHiToGrandma("I love you, Grandma."){
 console.log("I love you, too.")
 }

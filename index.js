@@ -14,7 +14,4 @@ console.log('I can\'t hear you!' )
 
   uppercase.toUpperCase() === uppercase
 console.log('YES INDEED!' )
-
-function sayHiToGrandma( i love you, Grandma) {  
-console.log('I love you too.' )
 }

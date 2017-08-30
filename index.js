@@ -17,10 +17,10 @@ var mixedCase = 'I love you, Grandma'
 
 lowercase.toLowerCase() === lowercase)
 console.log("I can't hear you!")
-}
+
 uppercase.toUpperCase() === uppercase)
 console.log("YES. INDEED!")
-}
+
 mixedCase.toLowerCase() === mixedCase
 mixedCase.toUpperCase() === mixedCase
 console.log("I love you, too.")

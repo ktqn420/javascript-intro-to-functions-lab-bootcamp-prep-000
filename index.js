@@ -18,4 +18,4 @@ var lowercase = 'hello'
 if(uppercase.toUpperCase === uppercase){
   console.log('YES INDEED!')
 } else if (lowercase.toLowerCase() === lowercase) {
-  console.log('I can't hear you!)
+  console.log("I can\'t hear you!" )

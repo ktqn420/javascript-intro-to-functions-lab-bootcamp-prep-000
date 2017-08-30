@@ -20,3 +20,7 @@ else if (string === string.toUpperCase()) {
 else (string === "I love you Grandma" {
   console.log("I love you, too")}
 }
+
+var uppercase = "HELLO!"
+
+uppercase.toUpperCase() === uppercase

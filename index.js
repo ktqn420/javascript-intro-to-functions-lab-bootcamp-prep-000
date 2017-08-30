@@ -20,4 +20,3 @@ console.log('YES INDEED!' )
   uppercase.toUpperCase() === uppercase
   console.log("I love you, too.")
 }
-

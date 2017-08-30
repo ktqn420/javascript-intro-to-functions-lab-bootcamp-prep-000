@@ -16,5 +16,5 @@ console.log('I can\'t hear you!' )
 console.log('YES INDEED!' )
 }
 function logShout(string) {
-  return string.toLowerCase()
+  return string.toUpperCase()
 }

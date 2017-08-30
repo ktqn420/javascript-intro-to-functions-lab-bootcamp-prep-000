@@ -12,6 +12,5 @@ function logWhisper(HELLO) {
 }
 
 var lowercase = 'hello'
-if(lowercase.toLowerCase() === lowercase)
   console.log("YES INDEED!")
 }

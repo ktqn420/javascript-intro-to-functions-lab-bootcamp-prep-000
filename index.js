@@ -15,6 +15,6 @@ console.log('I can\'t hear you!' )
   uppercase.toUpperCase() === uppercase
 console.log('YES INDEED!' )
 }
-function logShout(string) {
+function logShout(hello) {
   console.log('Hello')
 }

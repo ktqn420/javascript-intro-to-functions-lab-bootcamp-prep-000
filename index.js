@@ -10,3 +10,20 @@ function logShout(hello) {
 function logWhisper(HELLO) {
   console.log('hello')
 }
+
+
+var lowercase = 'hello'
+
+if(lowercase.toLowerCase() === lowercase) {
+  console.log("I can't hear you!")
+}
+
+var uppercase = "HELLO"
+
+if (uppercase.toUpperCase() === uppercase) {
+console.log("YES. INDEED!")
+}
+
+function sayHiToGrandma("I love you, Grandma."){
+console.log(' I love you, too.')
+}

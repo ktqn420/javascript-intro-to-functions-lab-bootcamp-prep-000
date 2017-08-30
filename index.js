@@ -13,8 +13,8 @@ function logWhisper(HELLO) {
 
 
 function sayHiToGrandma() {
-  var lowercase = 'hello'
+  var mixedCase = 'hello'
 
-lowercase.toLowerCase() === lowercase
-console.log('I can\'t hear you!' )
-}
+  if (mixedCase === "I") {
+      console.log("I can\'t hear you!")
+  }

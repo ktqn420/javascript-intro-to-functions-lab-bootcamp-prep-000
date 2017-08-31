@@ -18,4 +18,4 @@ if (string.toLowerCase() === string ) {
 
 if (string.toUpperCase() === string) {
       console.log("YES INDEED!" )
-}
+}}
